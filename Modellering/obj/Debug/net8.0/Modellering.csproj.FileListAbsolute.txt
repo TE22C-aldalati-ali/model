@@ -1,0 +1,15 @@
+c:\Users\ali.aldalati\Desktop\prog2\model\Modellering\bin\Debug\net8.0\Modellering.exe
+c:\Users\ali.aldalati\Desktop\prog2\model\Modellering\bin\Debug\net8.0\Modellering.deps.json
+c:\Users\ali.aldalati\Desktop\prog2\model\Modellering\bin\Debug\net8.0\Modellering.runtimeconfig.json
+c:\Users\ali.aldalati\Desktop\prog2\model\Modellering\bin\Debug\net8.0\Modellering.dll
+c:\Users\ali.aldalati\Desktop\prog2\model\Modellering\bin\Debug\net8.0\Modellering.pdb
+c:\Users\ali.aldalati\Desktop\prog2\model\Modellering\obj\Debug\net8.0\Modellering.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ali.aldalati\Desktop\prog2\model\Modellering\obj\Debug\net8.0\Modellering.AssemblyInfoInputs.cache
+c:\Users\ali.aldalati\Desktop\prog2\model\Modellering\obj\Debug\net8.0\Modellering.AssemblyInfo.cs
+c:\Users\ali.aldalati\Desktop\prog2\model\Modellering\obj\Debug\net8.0\Modellering.csproj.CoreCompileInputs.cache
+c:\Users\ali.aldalati\Desktop\prog2\model\Modellering\obj\Debug\net8.0\Modellering.sourcelink.json
+c:\Users\ali.aldalati\Desktop\prog2\model\Modellering\obj\Debug\net8.0\Modellering.dll
+c:\Users\ali.aldalati\Desktop\prog2\model\Modellering\obj\Debug\net8.0\refint\Modellering.dll
+c:\Users\ali.aldalati\Desktop\prog2\model\Modellering\obj\Debug\net8.0\Modellering.pdb
+c:\Users\ali.aldalati\Desktop\prog2\model\Modellering\obj\Debug\net8.0\Modellering.genruntimeconfig.cache
+c:\Users\ali.aldalati\Desktop\prog2\model\Modellering\obj\Debug\net8.0\ref\Modellering.dll
